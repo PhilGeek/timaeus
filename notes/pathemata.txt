@@ -3,8 +3,47 @@ Pathemata or pathe (Plato, in the Timaeus at least, uses these terms interchange
 Timaeus distinguishes two classes of pathemata. There are:
 
 	1. pathemata that are common to the body as a whole (Timaeus 61d--65b)
-	2. pathemata that perculiar to particular parts of the body (Timaeus 65b--68e)
+	2. pathemata that are peculiar to particular parts of the body (Timaeus 65b--68e)
 
 The body, here, is the human body, the body of a sentient being. This is inconsistent with Taylor's (1928, 431) denial that the pathemata are ``the effects produced by the bodies on a percipient''. In describing the common pathemata, Tiameus' explicit task is to describe the affections of the body as a whole and the names of the agents that produce these affections (Timaeus 65b). Timaeus undertakes a similar task with the peculiar pathemata, that is, he is meant to describe the affections of particular parts of the body and the names of the agents that produce these affections. Since the agents that produce these affections, whether common or peculiar, are the objects of perception, this is inconsistent with Taylor and Cornford's common insistence that the pathemata are sensible qualities. And this reamins so whether or not sensible qualities are best conceived, in Timaeus' account, as characteristics of bodies had independently of their effects on perceivers or as twinned with the appropriate perception. 
 
-Pathemata are not the objects of perception as Taylor and Cornford maintain but, rather, they are a causal intermediary between the objects of perception and the perceptions or sensations that they are liable to give rise to.
+Common pathemata, affections of the body as a whole, are involved in the perception or sensation of:
+	1. hot and cold (Timaeus 61d5--62a5)
+	2. hard and soft (Timaeus 62b6--c3)
+	3. heavy and light (Timaeus 62c3--63e8)
+	4. smooth and rough (Timaeus 63e8--64a1)
+	5. pleasure and pain (Timaeus 64a2--65b3)
+
+Peculiar pathemata are not affection of the body as a whole, but are rather affections of particular parts of the body that are liable to give rise to perception or sensation. Timaeus describes four such parts:
+
+	1. the tongue (Timaeus 65b--66c)
+	2. the nose (Timaeus 66c--67a)
+	3. the ears (or perhaps the brain and the blood) (Timaeus 46c--47e, 67a--c, 80a)
+	4. the eyes (Timaeus 45b--46c, 67c--68d)
+
+Pathemata peculiar to the tongue are involved in the perception or sensation of:
+
+	1. astringent and harsh (Timaeus 65c6--d4)
+	2. acrid and agreeable (Timaeus 65d4--65e4)
+	3. pungent (Timaeus 65e4--66a2)
+	4. acid (Timaeus 66a2--b7)
+	5. sweet (Timaeus 66b7--c7)
+
+Pathemata peculiar to the nose are involved in the perception or sensation of:
+
+	1. odours of water transforming into air or air into water (66c-67a)
+	2. pleasant and unpleasant odours (66d1--67a6)
+
+Pathemata peculiar to the ears (or perhaps the brain and the blood) are involved in the perception of:
+
+	1. pitch, high and low (Timaeus 67b6)
+	2. smooth and harsh (Timaeus 67b6-7)
+	3. volume, loud and soft (Timaeus 67c1)
+
+Finally, pathemata peculiar to the eyes are involved in the perception of:
+
+	1. colors (Timaeus 45b--46c, 67c--68d)
+
+If common pathemata are the pathemata involved in tactile perception and sensation, then the peculiar pathemata are the pathemata involved in the remaining four special senses: taste, smell, hearing, and vision. Here I am helping myself, in full knowledge of its anachronism, to the vocabulary of Aristotle in De Anima and De Sensu. Undoubtedly the Timaeus account of perception was an influence on Aristotle's own account in De Anima and De Sensu. However, for now at least, I want to bracket any suggestion that talk of the special senses may carry that the particular parts of the body affected are sense organs. Whether or not the particular parts of the body affected, as Timaeus conceives of them, are properly deemed sense organs shall be assessed as we proceed.
+
+Pathemata are not the objects of perception as Taylor and Cornford maintain but, rather, they are a causal intermediary between the objects of perception and the perceptions or sensations that they are liable to give rise to (O'Brien 1984, 138; Brisson 1997). The named agents of these affections, explicitly contrasted with the pathemata themselves, are the objects of perception. Moreover, perceptions are themselves explicitly contrasted with the pathemata. Pathemata, understood as affections of a sentient body, while necessary for the production of perception, are not sufficient. And if pathemata may obtain without perception, then perceptions are distinct from pathemata.
